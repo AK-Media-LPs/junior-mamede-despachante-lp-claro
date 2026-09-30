@@ -45,7 +45,7 @@ assets/         logos, símbolo JM, fotos da loja, carros, textura, favicons e o
 
 ## Pendências sinalizadas na exportação
 
-- **Domínio** com o nome completo → trocar `https://junior-mamede-despachante-lp-claro.vercel.app/` em `canonical`,
+- **Domínio** com o nome completo → trocar `https://juniormamede-claro.vercel.app/` em `canonical`,
   `og:url`, `og:image` e `twitter:image`, e devolver `url`/`logo` ao JSON-LD (em `componentDidMount`).
 - **`assets/carros.png`** veio do pngwing, licença incerta, com logos da Ford: trocar por imagem licenciada antes de anunciar.
 - **Copy nova a aprovar:** "Franca e região. Pelo WhatsApp ou no balcão."
